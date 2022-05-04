@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # GyverUART
 Lightweight serial port library
 - Almost a complete analogue of Serial, but much easier
