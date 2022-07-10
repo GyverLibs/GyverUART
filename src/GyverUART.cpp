@@ -130,6 +130,10 @@ boolean GyverUart::parsePacket(int *intArray) {
                     value += read() - '0';
                     value *= 10;
                 }
+                else
+                {
+                    clear();
+                }
             }
         }
     }
